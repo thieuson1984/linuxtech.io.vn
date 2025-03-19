@@ -1,4 +1,3 @@
-```markdown
  # Fedora: Bản Phân Phối Linux Cộng Đồng Mạnh Mẽ
 
  Fedora là một bản phân phối Linux dựa trên nền tảng RPM, được phát triển bởi cộng đồng và được tài trợ bởi Red Hat. Fedora nổi tiếng với việc tập trung vào phần mềm tự do và nguồn mở mới nhất, cung cấp một nền tảng thử nghiệm cho các công nghệ mới trước khi chúng được tích hợp vào Red Hat Enterprise Linux (RHEL).
