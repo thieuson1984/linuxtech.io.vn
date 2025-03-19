@@ -1,7 +1,7 @@
 # Setup
 
 ## Github
-- Click on the user this template & create a new repository
+- Click on the use this template & create a new repository
 - Give the repository a name and click on create repository
 
 ## Cloudflare
