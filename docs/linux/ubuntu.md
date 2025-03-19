@@ -1,4 +1,3 @@
-```markdown
  # Giới thiệu về Ubuntu
  
 
